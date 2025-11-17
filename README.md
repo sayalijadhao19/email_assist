@@ -1,4 +1,4 @@
-# Legal Email Assistant - Virtuon Technologies
+# Legal Email Assistant
 
 A modular Python-based system for analyzing legal emails and drafting professional replies using an agent-based architecture.
 
@@ -269,3 +269,4 @@ For questions or support, please contact the Virtuon Technologies development te
 
 **Version**: 1.0.0  
 **Last Updated**: November 2025
+
